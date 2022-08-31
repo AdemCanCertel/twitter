@@ -7,7 +7,7 @@ export default function HomePage() {
     <>
         <div className="min-h-screen mx-auto max-w-7xl flex">
                 <SideBar/>
-            <main className="flex-1 flex flex-col border-r border-l border-b border-primary-container_border_color bg-white">
+            <main className="flex-1 flex flex-col border-r border-l border-b border-[#2F3336] bg-white">
                 <ContainerPage/>         
             </main>
             <aside className="bg-white w-350">

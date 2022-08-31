@@ -16,12 +16,16 @@ module.exports = {
       colors: {
         extends: {
           colors: {
+            tweetBorder: '#1d9bf0',
             borderColor: '#2F3336',
             profileColor: '#697077',
             bgHover: '#161616',
-            tweetButton: '#1a8cd8',
             textBox: '#1d9bf01a',
-            tweetBox: '#00ba7c'
+            tweetBox: '#00ba7c',
+            searchBox: '#202327',
+            trendsColor: '#15181C',
+            trendsHover: '#1C1F23',
+            trendsDescription: '#8899a6'
           }
         }
       }

@@ -62,7 +62,7 @@ export default function SideBar() {
                             </a>
                         </ul>
                     </nav>
-                    <button className="bg-[#1a8cd8] text-black rounded-full shadow-lg py-3 px-8 w-90 transform transition-colors duration-500 font-bold sidebar-text-bold">
+                    <button className="bg-blue-500 text-black rounded-full shadow-lg py-3 px-8 w-90 transform transition-colors duration-500 font-bold sidebar-text-bold">
                         Tweet
                     </button>
                     <div className="flex justify-between items-center mb-7 mt-6 hover:bg-[#161616] hover:bg-opacity-70 rounded-full pl-3 pr-8 py-3 transform transition-colors duration-2">
