@@ -1,12 +1,14 @@
 {
   "name": "twitter-clone",
   "description": "",
-  "version": "3.1.0",
-  "repository": "https://github.com/AdemCanCertel/twitter-clone",
+  "version": "",
+  "repository": "https://github.com/AdemCanCertel/twitter-clone.git",
+  "main": "",
   "license": "MIT",
   "author": {
-    "name": "Adem Can Certel",
-    "email": "ademcancertel619@gmail.com"
+    "name": "AdemCan Certel",
+    "email": "ademcancertel619@gmail.com",
+    "url": "https://ademcancertel.github.io"
   },
   "scripts": {
     "dev": "next dev",
