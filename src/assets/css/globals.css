@@ -4,7 +4,6 @@
 
 @layer base {
     body {
-        @apply min-h-screen mx-auto max-w-7xl;
         @apply bg-black
     }
 }

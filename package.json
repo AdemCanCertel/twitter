@@ -1,14 +1,13 @@
 {
-  "name": "twitter-clone",
-  "description": "",
-  "version": "",
-  "repository": "https://github.com/AdemCanCertel/twitter-clone.git",
-  "main": "",
+  "name": "twitter",
+  "description": "Next.js and Tailwind use CSS technologies to create a Twitter Clone 🐦",
+  "version": "2.0.0",
+  "repository": "https://github.com/AdemCanCertel/twitter.git",
   "license": "MIT",
   "author": {
-    "name": "AdemCan Certel",
+    "name": "Adem Can Certel",
     "email": "ademcancertel619@gmail.com",
-    "url": "https://ademcancertel.github.io"
+    "url": "https://"
   },
   "scripts": {
     "dev": "next dev",

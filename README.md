@@ -1,6 +1,4 @@
-## ✨ Twitter Clone
-
-### Screenshot
+## Twitter Clone
 <img src="https://i.imgur.com/edcYstG.png"/>
 
 ## 🔧 Getting Started
