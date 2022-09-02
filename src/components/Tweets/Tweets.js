@@ -4,7 +4,7 @@ export default function Tweets(){
     return(
         <>
         <div className="flex space-x-3 px-4 py-3 border-b border-primary-container_border_color">
-            <img src="https://pbs.twimg.com/profile_images/1439646648410464258/C52zZ4ff_400x400.jpg" className="w-11 h-11 rounded-full" />
+            <img src="https://pbs.twimg.com/profile_images/1559300390977507330/Bq5EzTJv_400x400.jpg" className="w-11 h-11 rounded-full" />
             <div className="flex-1">
                 <div className="flex items-center text-sm space-x-2">
                 <span className="ml-1 font-bold text-white">AdemCan Certel <VerifiedBadge/></span>
