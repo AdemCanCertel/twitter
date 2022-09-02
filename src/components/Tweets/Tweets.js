@@ -1,4 +1,4 @@
-import { Reply, Retweet, Like, Share, VerifiedBadge } from '../Sidebar/İcons';
+import { Reply, Retweet, Like, Share } from '../Sidebar/İcons';
 
 export default function Tweets(){
     return(
@@ -7,15 +7,14 @@ export default function Tweets(){
             <img src="https://pbs.twimg.com/profile_images/1559300390977507330/Bq5EzTJv_400x400.jpg" className="w-11 h-11 rounded-full" />
             <div className="flex-1">
                 <div className="flex items-center text-sm space-x-2">
-                <span className="ml-1 font-bold text-white">AdemCan Certel <VerifiedBadge/></span>
-                <span className="ml-2 text-primary-gray_colors">@CertelAdemcan</span>
-                <div className="mx-2 text-primary-gray_colors">·</div>
-                <span className="text-primary-gray_colors">49m</span>
+                <span className="ml-1 font-bold text-white">Adem Can Certel </span>
+                <span className="ml-2 text-primary-gray_colors">@ademcancertell</span>
+                <span className="text-primary-gray_colors">2h</span>
                 </div>
                 <div className="ml-1">
                     <p className="items-center text-white overflow-hidden">
                         Details are important; they are worth waiting for to be true.
-                        <img className="mt-3 rounded-xl" src="https://i2.milimaj.com/i/milliyet/75/0x410/5d6576d6554281214c076887.jpg"/>
+                        <img className="mt-3 rounded-xl" src="https://media-cdn.t24.com.tr/media/stories/2018/08/raw_34steve-jobs-onu-olum-doseginde-ziyaret-eden-kizina-tuvalet-gibi-kokuyorsun-demis34_591041725.jpg"/>
                     </p>
                     <ul className="flex justify-between mt-2">
                         <li className="flex items-center text-sm space-x-0 text-primary-gray_colors hover:text-primary-reply group cursor-pointer">

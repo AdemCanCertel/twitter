@@ -10,13 +10,10 @@ export default function AllBox() {
     </div>
         <div className="items-center p-3 m-3 mt-4 bg-primary-trends_fy_color rounded-xl">
             <div>
-                <div className="tfy flex items-center justify-between text-white">
-                    <span className="text-xl font-bold">Trends for you</span>
-                    <div className="flex items-center justify-center w-9 h-9 rounded-full transform transition-colors duration-2 hover:bg-gray-700 hover:bg-opacity-70 cursor-pointer">
-                    <SettingsIcon/>
-                    </div>
+                <div className="flex items-center justify-between text-white">
+                    <span className="text-xl font-bold">Topics you may be interested in</span>
                 </div>
-                <div className="hover:bg-primary-trends_hover cursor-pointer mb-3">
+                <div className="hover:bg-primary-trends_hover cursor-pointer mb-3 mt-5">
                 <div className="">
                     <div className="flex flex-row items-center category_1">
                         <span className="text-sm text-primary-trends_d_color">Trending in Turkey</span>
