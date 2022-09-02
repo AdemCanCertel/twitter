@@ -14,7 +14,7 @@ export default function ContainerPage() {
                 </div>
             </header>
             <div className="flex space-x-4 px-5 py-2 border-b border-primary-container_border_color">
-                    <img className="rounded-full h-11 w-11 mt-1" src="https://pbs.twimg.com/profile_images/1439646648410464258/C52zZ4ff_400x400.jpg"/>
+                    <img className="rounded-full h-11 w-11 mt-1" src="https://pbs.twimg.com/profile_images/1559300390977507330/Bq5EzTJv_400x400.jpg"/>
                     <TweetBox/>
             </div>
             <div>

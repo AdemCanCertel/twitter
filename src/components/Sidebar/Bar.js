@@ -4,9 +4,8 @@ import { TwitterIcon, HomeIcon, ExploreIcon, NotificationsIcon, MessagesIcon, Bo
 export default function SideBar() {
     return (
         <>
-
             <div className="flex flex-col w-275 justify-between px-3 bg-black">
-                <div>
+                <div className='sticky top-0'>
                     <div className="flex items-center justify-center w-12 h-12 rounded-full transform transition-colors duration-2 hover:bg-primary-twıtter_ıcon hover:bg-opacity-70 mt-1 mb-5 cursor-pointer">
                         <TwitterIcon />
                     </div>
@@ -67,11 +66,11 @@ export default function SideBar() {
                     </button>
                     <div className="flex justify-between items-center mb-7 mt-6 hover:bg-primary-navi_hover hover:bg-opacity-70 rounded-full pl-3 pr-8 py-3 transform transition-colors duration-2">
                         <div className="h-11 w-11">
-                            <img className="rounded-full" src="https://pbs.twimg.com/profile_images/1439646648410464258/C52zZ4ff_400x400.jpg" />
+                            <img className="rounded-full" src="https://pbs.twimg.com/profile_images/1559300390977507330/Bq5EzTJv_400x400.jpg" />
                         </div>
                         <div className="flex flex-col">
-                            <span className="font-bold text-md text-white">AdemCan Certel</span>
-                            <span className="text-primary-profile_color text-sm">@CertelAdemcan</span>
+                            <span className="font-bold text-md text-white">Adem Can Certel</span>
+                            <span className="text-primary-profile_color text-sm">@ademcancertell</span>
                         </div>
 
                         <div className="flex space-x-1">
