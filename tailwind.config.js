@@ -28,12 +28,14 @@ module.exports = {
           trends_d_color: "#8899a6",
           trends_hover: "#1C1F23",
           trends_circle_hover: "#1d9bf0",
-          tweetbox_colors: "#1da1f2",
           tweetbox_colors_hover: "#162d40",
           gray_colors: "#62696F",
-          tweets_hover_colors1: "#1d9bf01a",
-          tweets_hover_colors2: "#00ba7c",
-          tweets_hover_colors3: "#f91880"
+          reply: "#1da1f2",
+          reply_hover: "#1d9bf01a",
+          retweet: "#17bf63",
+          retweet_hover: "#17bf631a",
+          like: "rgb(249, 24, 128)",
+          like_hover: "rgba(249, 24, 128, 0.2)",
         },
       }
     },
