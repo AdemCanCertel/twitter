@@ -9,7 +9,7 @@ export default function SideBar() {
                     <div className="flex items-center justify-center w-12 h-12 rounded-full transform transition-colors duration-2 hover:bg-primary-twıtter_ıcon hover:bg-opacity-70 mt-1 mb-5 cursor-pointer">
                         <TwitterIcon />
                     </div>
-                    <nav className="mb-5">
+                    <nav className="mb-5 text-xl text-white">
                         <ul>
                             <a href="">
                                 <div className="flex items-center hover:bg-primary-navi_hover hover:bg-opacity-70 rounded-full pl-3 pr-8 py-3 transform transition-colors duration-2">
