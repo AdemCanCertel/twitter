@@ -2,10 +2,10 @@ import { Search, SettingsIcon, Circle, VerifiedBadge } from '../Sidebar/İcons';
 export default function AllBox() {
     return(
     <>
-    <div className="flex items-center space-x-5 p-3 m-3 rounded-full bg-primary-search_box text-white focus-within:ring-2 focus-within:ring-primary-search_box_color focus:ring-1">
+    <div className="flex items-center space-x-5 p-3 m-3 rounded-full bg-primary-search_box text-white focus-within:ring-2 focus-within:ring-primary-button focus:ring-1">
         <Search />
             <div>
-                <input className="bg-primary-searchbox focus:outline-none bg-transparent w-full" type="text" placeholder="Search Twitter"/>
+                <input className="focus:outline-none bg-transparent w-full" type="text" placeholder="Search Twitter"/>
             </div>
     </div>
         <div className="items-center p-3 m-3 mt-4 bg-primary-trends_fy_color rounded-xl">
@@ -15,7 +15,7 @@ export default function AllBox() {
                 </div>
                 <div className="hover:bg-primary-trends_hover cursor-pointer mb-3 mt-5">
                 <div className="">
-                    <div className="flex flex-row items-center category_1">
+                    <div className="flex flex-row items-center">
                         <span className="text-sm text-primary-trends_d_color">Trending in Turkey</span>
                         <div className="flex space-x-1 ml-auto tt items-center justify-center w-8 h-8 rounded-full transform transition-colors duration-2 hover:bg-primary-trends_circle_hover hover:bg-opacity-25 cursor-pointer">
                             <Circle/>
