@@ -17,7 +17,7 @@ export default function SideBar() {
                                     <li className="ml-4 sidebar-text-bold font-bold">Home</li>
                                 </div>
                             </a>
-                            <a href="">
+                            <a href="/explore">
                                 <div className="flex items-center hover:bg-primary-navi_hover hover:bg-opacity-70 rounded-full pl-3 pr-8 py-3 transform transition-colors duration-2">
                                     <ExploreIcon />
                                     <li className="ml-4 sidebar-text font-regular">Explore</li>

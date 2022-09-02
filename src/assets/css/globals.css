@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body {
+        @apply min-h-screen mx-auto max-w-7xl;
+        @apply bg-black
+    }
+}
+
+.sticky-top{
+    position:-webkit-sticky;
+    position:sticky;
+    top:0;
+    z-index:1020
+}
