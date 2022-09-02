@@ -64,7 +64,7 @@ export default function SideBar() {
                     <button className="bg-primary-button text-white rounded-full shadow-lg py-3 px-8 w-90 transform transition-colors duration-500 hover:bg-primary-button_hover font-bold sidebar-text-bold">
                         Tweet
                     </button>
-                    <div className="flex justify-between items-center mb-7 mt-6 hover:bg-primary-navi_hover hover:bg-opacity-70 rounded-full pl-3 pr-8 py-3 transform transition-colors duration-2">
+                    <div className="flex justify-between items-center mb-7 mt-40 hover:bg-primary-navi_hover hover:bg-opacity-70 rounded-full pl-3 pr-8 py-3 transform transition-colors duration-2">
                         <div className="h-11 w-11">
                             <img className="rounded-full" src="https://pbs.twimg.com/profile_images/1559300390977507330/Bq5EzTJv_400x400.jpg" />
                         </div>
