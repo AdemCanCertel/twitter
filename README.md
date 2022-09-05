@@ -1,5 +1,7 @@
 ## Twitter Clone 🐦
 
+<img src="./store/twitter.jpg" />
+
 ## Getting Started
   To add the project to your device.
   - `git clone git@github.com:AdemCanCertel/twitter.git`
