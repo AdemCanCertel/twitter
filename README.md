@@ -1,8 +1,5 @@
 ## Twitter Clone 🐦
 
-
-<img src=""/>
-
 ## Getting Started
   To add the project to your device.
   - `git clone git@github.com:AdemCanCertel/twitter-clone.git`
