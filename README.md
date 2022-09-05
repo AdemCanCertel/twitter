@@ -2,7 +2,7 @@
 
 ## Getting Started
   To add the project to your device.
-  - `git clone git@github.com:AdemCanCertel/twitter-clone.git`
+  - `git clone git@github.com:AdemCanCertel/twitter.git`
 
   Then install the project
   - `npm install` & `yarn`
