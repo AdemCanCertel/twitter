@@ -1,6 +1,6 @@
 import SideBar from '../components/Sidebar/Bar';
-import AllBox from '../components/SearchTT/Box';
-import ContainerPage from '../components/Container/Container';
+import AllBox from '../components/SearchCard/Box';
+import ContainerPage from '../components/Container';
 
 export default function HomePage() {
     return(

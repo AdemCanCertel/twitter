@@ -1,4 +1,4 @@
-import { Search, SettingsIcon, Circle, VerifiedBadge } from '../Sidebar/İcons';
+import { Search, Circle} from '../Sidebar/İcons';
 export default function AllBox() {
     return(
     <>

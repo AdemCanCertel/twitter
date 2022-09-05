@@ -1,6 +1,6 @@
-import { TopTIcon } from '../Sidebar/İcons';
-import TweetBox from '../TweetBox/TweetBox';
-import Tweets from '../Tweets/Tweets';
+import { TopTIcon } from './Sidebar/İcons';
+import TweetBox from './TweetBox/TweetBox';
+import Tweets from './Tweets/Tweets';
 
 export default function ContainerPage() {
     return(
